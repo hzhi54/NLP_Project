@@ -35,5 +35,11 @@ These are the possible topics are being label as. So I created a visual for the 
 As you can see, topic 1 are associated with Business Development job title with the top 30 word that are refering to this topic.
 There are 24 other topic, but this is one example of it.
 
+A better exmaple of a job title is this following image:
+
+![image](https://user-images.githubusercontent.com/43353401/140815338-0c5fbfc5-7df8-437f-9f93-8e5495e3dd05.png)
+
+This refers to the topic Teacher.
+
 By the end of this week, I'm looking forward to create a recommendation system for resumes that could possible be label as one 
 of the 24 topics here.
